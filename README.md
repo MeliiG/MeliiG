@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi to you👋
 
 <!--
 **MeliiG/MeliiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my page!
+
+I'm Melissa Garcia.
+Currently venturing into frontend web development with high quality in detail.
+
+LinkedIn e-mail 
+
+Languages
+JavaScript Java C++ C Bash SQL MongoDB
+
+
+Technologies & Frameworks
+React Angular HTML5 CSS3 
+
+OS
+Linux Windows 
