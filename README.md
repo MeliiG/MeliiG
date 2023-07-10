@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     JavaScript Java C++ C Bash SQL MongoDB
 
     Technologies & Frameworks
-    React Angular HTML5 CSS3 
+    React Angular HTML5 CSS3 Express
 
     OS
     Linux Windows
