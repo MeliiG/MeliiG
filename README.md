@@ -19,14 +19,18 @@ Here are some ideas to get you started:
 
    I'm Melissa Garcia.
     Currently venturing into frontend web development with high quality in detail.
-   
-    Languages
-    JavaScript Java C++ C Bash SQL MongoDB
+    
 
-    Technologies & Frameworks
-    React Angular HTML5 CSS3 Express
 
-    OS
-    Linux Windows
+![Banner de LinkedIn Sencillo Tecnología](https://github.com/MeliiG/MeliiG/assets/88354500/3f5834c0-56db-45b2-b05b-67d88ff1f5bf)
+
+  
+    ⚙️Languages
+      JavaScript, Java, C++, C, Bash, SQL, MongoDB, Python, Php
+
+    🧩Technologies & 🎨Frameworks
+      React, Angular, HTML5, CSS3, NodeJs - Express,Bootstrap, Tailwind CSS
+
+    💻 OS: Linux - Windows
 
 </div> 
