@@ -25,12 +25,24 @@ Here are some ideas to get you started:
 ![Banner de LinkedIn Sencillo Tecnología](https://github.com/MeliiG/MeliiG/assets/88354500/3f5834c0-56db-45b2-b05b-67d88ff1f5bf)
 
   
-    ⚙️Languages
-      JavaScript, Java, C++, C, Bash, SQL, MongoDB, Python, Php
+   ⚙️Languages:
+   
+    💠JavaScript, Java, Python, Php💠
 
-    🧩Technologies & 🎨Frameworks
-      React, Angular, HTML5, CSS3, NodeJs - Express,Bootstrap, Tailwind CSS
+   📑Databases:
+    
+     💠Oracle, MongoDB, SQL💠
 
-    💻 OS: Linux - Windows
+   🧩Technologies:  
+     
+     💠React, Angular, HTML5, CSS3, NodeJs💠
+
+   🎨Frameworks:
+     
+     💠Express,Bootstrap, Tailwind CSS💠
+
+   💻 OS: 
+     
+     💠Linux - Windows💠
 
 </div> 
